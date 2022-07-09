@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div className="App">
+    <div className="app-container">
       <h1>Pokecard</h1>
     </div>
   );
